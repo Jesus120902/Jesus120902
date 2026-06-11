@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Augusto Jesus Alcarraz Altamirano</h1>
+<h1 align="center">Hola 👋, soy Augusto </h1>
 
 <h3 align="center">
 💻 Software Developer | 📊 Data Analyst Jr | 🚀 System Engineering Student
